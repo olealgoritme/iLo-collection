@@ -1,0 +1,11 @@
+ILO FUNCTION           SOCKET TYPE PORT NUMBER 
+---------------------- ----------- -----------
+Secure Shell (SSH)         TCP        22
+Remote Console/Telnet      TCP        23
+Web Server Non-SSL         TCP        80
+Web Server SSL             TCP        443
+Terminal Services          TCP        3389
+Virtual Media              TCP        17988
+Shared Remote Console      TCP        9300
+Console Replay             TCP        17990
+Raw Serial Data            TCP        3002
